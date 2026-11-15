@@ -101,5 +101,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-config.bat
 node_modules
